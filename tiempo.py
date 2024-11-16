@@ -24,7 +24,9 @@ for question in answered_questions:
         accepted_answer = soup.find('div', class_='answer js-answer accepted-answer js-accepted-answer')
         if accepted_answer:
             # Obtener el texto de la respuesta aceptada
-            answer_text = accepted_answer.find('div', class_='js-post-body').get_text(strip=True)
+            answer_text = accepted_answer.find('div', class_='js-post-body')
+            paragraphs = [p.get_text(strip=True) for p in answer_text.find_all('p')]
+            answer_text = " ".join(paragraphs)
 
             # Obtener la fecha de creación de la respuesta aceptada (desde el atributo data-value)
             answer_creation_date = accepted_answer.find('time')['datetime']
