@@ -1,0 +1,833 @@
+{
+  "items": [
+    {
+      "tags": [
+        "amazon-web-services",
+        "amazon-iam",
+        "aws-cli",
+        "aws-cdk"
+      ],
+      "owner": {
+        "account_id": 9809141,
+        "reputation": 535,
+        "user_id": 7267916,
+        "user_type": "registered",
+        "accept_rate": 8,
+        "profile_image": "https://www.gravatar.com/avatar/d65e075057404ca9f1523ce8c6f63233?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Toseef_Ahmed",
+        "link": "https://stackoverflow.com/users/7267916/toseef-ahmed"
+      },
+      "is_answered": false,
+      "view_count": 53,
+      "answer_count": 1,
+      "score": -1,
+      "last_activity_date": 1731719795,
+      "creation_date": 1730657966,
+      "last_edit_date": 1730658316,
+      "question_id": 79153362,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79153362/cdk-diff-fails-with-need-to-perform-aws-calls-but-no-credentials-have-been-con",
+      "title": "CDK Diff Fails with &quot;Need to perform AWS calls, but no credentials have been configured&quot; Despite Correct Role Assumption Setup"
+    },
+    {
+      "tags": [
+        "android",
+        "firebase",
+        "google-cloud-platform"
+      ],
+      "owner": {
+        "account_id": 29545645,
+        "reputation": 9,
+        "user_id": 22643402,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/ACg8ocIqSnih10I2j9vxlmleHVyL81cdf3pTnufiocFPCojicw=k-s256",
+        "display_name": "Heman Kadariya",
+        "link": "https://stackoverflow.com/users/22643402/heman-kadariya"
+      },
+      "is_answered": false,
+      "view_count": 2,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1731719781,
+      "creation_date": 1731719781,
+      "question_id": 79194351,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79194351/firebase-otp-sms-working-on-ios-but-not-on-android-says-unknown-status-code-1",
+      "title": "Firebase OTP SMS working on IOS but not on android. says &#39;unknown status code: 17499 BILLING_NOT_ENABLED&#39;"
+    },
+    {
+      "tags": [
+        "c#",
+        "visual-studio",
+        "compile-time"
+      ],
+      "owner": {
+        "account_id": 119216,
+        "reputation": 12548,
+        "user_id": 310767,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://www.gravatar.com/avatar/804eb78b5648b152702b8cdfbba8b3f5?s=256&d=identicon&r=PG",
+        "display_name": "Ray Cheng",
+        "link": "https://stackoverflow.com/users/310767/ray-cheng"
+      },
+      "is_answered": true,
+      "view_count": 1840,
+      "accepted_answer_id": 8125370,
+      "answer_count": 4,
+      "score": 2,
+      "last_activity_date": 1731719734,
+      "creation_date": 1321290010,
+      "last_edit_date": 1731719734,
+      "question_id": 8125175,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/8125175/in-c-how-to-restrict-who-can-call-a-method-at-compile-time",
+      "title": "In C#, how to restrict who can call a method at compile time"
+    },
+    {
+      "tags": [
+        "c#",
+        ".net"
+      ],
+      "owner": {
+        "account_id": 1573563,
+        "reputation": 462,
+        "user_id": 1460678,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/d8dd4b059108ae326ab995d696956c28?s=256&d=identicon&r=PG",
+        "display_name": "Nicholas Decker",
+        "link": "https://stackoverflow.com/users/1460678/nicholas-decker"
+      },
+      "is_answered": true,
+      "view_count": 1830,
+      "accepted_answer_id": 11438530,
+      "answer_count": 3,
+      "score": 1,
+      "last_activity_date": 1731719681,
+      "creation_date": 1342025764,
+      "last_edit_date": 1731719681,
+      "question_id": 11437635,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/11437635/the-name-sb-does-not-exist-in-the-current-context-net-intermittent-error-no",
+      "title": "The name &#39;sb&#39; does not exist in the current context - .net intermittent error not receiving from c#"
+    },
+    {
+      "tags": [
+        "php"
+      ],
+      "owner": {
+        "account_id": 21185993,
+        "reputation": 1,
+        "user_id": 15579342,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/e698dd79e015d4e144f68771f939b875?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "rel82me",
+        "link": "https://stackoverflow.com/users/15579342/rel82me"
+      },
+      "is_answered": false,
+      "view_count": 25,
+      "answer_count": 1,
+      "score": -1,
+      "last_activity_date": 1731719658,
+      "creation_date": 1617853165,
+      "last_edit_date": 1731719643,
+      "question_id": 66997026,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/66997026/sending-multiple-php-strings-in-twilio-body",
+      "title": "Sending multiple php strings in Twilio Body"
+    },
+    {
+      "tags": [
+        "javascript",
+        "drag-and-drop",
+        "html5-draggable"
+      ],
+      "owner": {
+        "account_id": 6501413,
+        "reputation": 569,
+        "user_id": 5032071,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://lh3.googleusercontent.com/-zHlaEH2-jzc/AAAAAAAAAAI/AAAAAAAAAHE/fTupvRiwBi8/photo.jpg?sz=256",
+        "display_name": "Zied Hf",
+        "link": "https://stackoverflow.com/users/5032071/zied-hf"
+      },
+      "is_answered": false,
+      "view_count": 879,
+      "answer_count": 1,
+      "score": 6,
+      "last_activity_date": 1731719642,
+      "creation_date": 1625592163,
+      "last_edit_date": 1625601813,
+      "question_id": 68274938,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/68274938/html5-native-drag-and-drop-is-it-possible-to-change-the-preview-while-dragging",
+      "title": "HTML5 native Drag and Drop : Is it possible to change the preview while dragging an element?"
+    },
+    {
+      "tags": [
+        "html",
+        "css"
+      ],
+      "owner": {
+        "account_id": 12623199,
+        "reputation": 279,
+        "user_id": 9177940,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/073edba906c24fc3fada485b351e6503?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "daggett",
+        "link": "https://stackoverflow.com/users/9177940/daggett"
+      },
+      "is_answered": false,
+      "view_count": 23,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1731719629,
+      "creation_date": 1731710803,
+      "last_edit_date": 1731711841,
+      "question_id": 79194155,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79194155/absolute-positioned-image-ignoring-left-and-right",
+      "title": "Absolute positioned image ignoring left and right"
+    },
+    {
+      "tags": [
+        "c#",
+        "assembly",
+        "visual-studio-2012",
+        "disassembly"
+      ],
+      "owner": {
+        "account_id": 173110,
+        "reputation": 18169,
+        "user_id": 401584,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://www.gravatar.com/avatar/f52c02ef1784437c404e0c7719122b69?s=256&d=identicon&r=PG",
+        "display_name": "IamIC",
+        "link": "https://stackoverflow.com/users/401584/iamic"
+      },
+      "is_answered": true,
+      "view_count": 1008,
+      "accepted_answer_id": 12397380,
+      "answer_count": 3,
+      "score": 5,
+      "last_activity_date": 1731719593,
+      "creation_date": 1347489675,
+      "last_edit_date": 1731719593,
+      "question_id": 12397108,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/12397108/disassembly-view-of-c-64-bit-release-code-is-75-longer-than-32-bit-debug-code",
+      "title": "Disassembly view of C# 64-bit Release code is 75% longer than 32-bit Debug code?"
+    },
+    {
+      "tags": [
+        "php",
+        "arrays",
+        "filter",
+        "key",
+        "array-difference"
+      ],
+      "owner": {
+        "account_id": 11657764,
+        "reputation": 511,
+        "user_id": 10030963,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/4e03899b95fcc2787f9fa2cbd386f1d4?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "vicky793",
+        "link": "https://stackoverflow.com/users/10030963/vicky793"
+      },
+      "is_answered": true,
+      "view_count": 111,
+      "closed_date": 1731585715,
+      "accepted_answer_id": 52315538,
+      "answer_count": 3,
+      "score": 2,
+      "last_activity_date": 1731719581,
+      "creation_date": 1536847268,
+      "last_edit_date": 1731713143,
+      "question_id": 52315426,
+      "link": "https://stackoverflow.com/questions/52315426/how-to-compare-keys-in-one-array-with-values-in-another-and-return-non-matches",
+      "closed_reason": "Duplicate",
+      "title": "How to compare keys in one array with values in another, and return non-matches?"
+    },
+    {
+      "tags": [
+        "java",
+        "maven",
+        "visual-studio-code"
+      ],
+      "owner": {
+        "account_id": 22464168,
+        "reputation": 31,
+        "user_id": 16665585,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/dbe62d0e5b7cd956e4cd3b9100f0515a?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "lokiuucx",
+        "link": "https://stackoverflow.com/users/16665585/lokiuucx"
+      },
+      "is_answered": false,
+      "view_count": 2,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1731719551,
+      "creation_date": 1731719551,
+      "question_id": 79194349,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79194349/vs-code-src-main-resources-not-included-in-the-class-path",
+      "title": "VS Code src/main/resources not included in the class path"
+    },
+    {
+      "tags": [
+        "firebase",
+        "react-native",
+        "google-cloud-firestore",
+        "expo"
+      ],
+      "owner": {
+        "account_id": 898592,
+        "reputation": 9201,
+        "user_id": 935330,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://i.sstatic.net/ORFjz.jpg?s=256",
+        "display_name": "danilo",
+        "link": "https://stackoverflow.com/users/935330/danilo"
+      },
+      "is_answered": false,
+      "view_count": 31,
+      "answer_count": 0,
+      "score": 2,
+      "last_activity_date": 1731719488,
+      "creation_date": 1731555524,
+      "last_edit_date": 1731719488,
+      "question_id": 79187334,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79187334/react-native-doesnt-get-old-documents-from-firestore",
+      "title": "react native doesn&#39;t get old documents from firestore"
+    },
+    {
+      "tags": [
+        "c#",
+        "web-services",
+        "visual-studio-2010"
+      ],
+      "owner": {
+        "account_id": 316992,
+        "reputation": 29111,
+        "user_id": 633438,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://i.sstatic.net/KWSpX.png?s=256",
+        "display_name": "Sean Anderson",
+        "link": "https://stackoverflow.com/users/633438/sean-anderson"
+      },
+      "is_answered": false,
+      "view_count": 1262,
+      "answer_count": 0,
+      "score": 4,
+      "last_activity_date": 1731719481,
+      "creation_date": 1348069283,
+      "last_edit_date": 1731719481,
+      "question_id": 12498144,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/12498144/why-does-visual-studios-web-service-serialization-engine-change-when-i-make-ref",
+      "title": "Why does Visual Studio&#39;s web service serialization engine change when I make reference to an abstract class?"
+    },
+    {
+      "tags": [
+        "macos",
+        "nginx"
+      ],
+      "owner": {
+        "account_id": 268056,
+        "reputation": 35,
+        "user_id": 556594,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/b21e80ed8639cb444a71af854c3400ad?s=256&d=identicon&r=PG",
+        "display_name": "ZheX",
+        "link": "https://stackoverflow.com/users/556594/zhex"
+      },
+      "is_answered": true,
+      "view_count": 5453,
+      "accepted_answer_id": 11020484,
+      "answer_count": 3,
+      "score": 1,
+      "last_activity_date": 1731719454,
+      "creation_date": 1339576308,
+      "question_id": 11010991,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/11010991/why-my-nginx-service-can-not-be-stopped-on-my-mac",
+      "title": "why my nginx service can not be stopped on my mac?"
+    },
+    {
+      "tags": [
+        "python-3.x",
+        "gcc",
+        "centos",
+        "pip"
+      ],
+      "owner": {
+        "account_id": 6839482,
+        "reputation": 1,
+        "user_id": 5260339,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/96951d33ad3b6c7fe6746c2e51e50945?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Григорий Кулин",
+        "link": "https://stackoverflow.com/users/5260339/%d0%93%d1%80%d0%b8%d0%b3%d0%be%d1%80%d0%b8%d0%b9-%d0%9a%d1%83%d0%bb%d0%b8%d0%bd"
+      },
+      "is_answered": false,
+      "view_count": 1950,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1731719437,
+      "creation_date": 1524578222,
+      "last_edit_date": 1575085376,
+      "question_id": 50003562,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/50003562/compile-error-while-try-install-mysqlclient-package-with-pip",
+      "title": "Compile error while try install mysqlclient package with pip"
+    },
+    {
+      "tags": [
+        "c#",
+        "arm",
+        "ide",
+        "windows-runtime"
+      ],
+      "owner": {
+        "account_id": 325090,
+        "reputation": 1032,
+        "user_id": 1246988,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/7feb88c05acd40f7dbd7ac27c39854f4?s=256&d=identicon&r=PG",
+        "display_name": "Michael Bisbjerg",
+        "link": "https://stackoverflow.com/users/1246988/michael-bisbjerg"
+      },
+      "is_answered": true,
+      "view_count": 3044,
+      "accepted_answer_id": 13349021,
+      "answer_count": 3,
+      "score": 14,
+      "last_activity_date": 1731719423,
+      "creation_date": 1352724582,
+      "last_edit_date": 1731719423,
+      "question_id": 13344024,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/13344024/compile-c-on-a-not-for-windows-8-arm-tablet",
+      "title": "Compile C# on a (not for) Windows 8 ARM Tablet"
+    },
+    {
+      "tags": [
+        "c#",
+        "uwp"
+      ],
+      "owner": {
+        "account_id": 18307887,
+        "reputation": 79,
+        "user_id": 13331366,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/5TJZu.png?s=256",
+        "display_name": "Seyed Hani Mohajerani",
+        "link": "https://stackoverflow.com/users/13331366/seyed-hani-mohajerani"
+      },
+      "is_answered": false,
+      "view_count": 70,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1731719272,
+      "creation_date": 1590508583,
+      "last_edit_date": 1731719272,
+      "question_id": 62026302,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62026302/uwp-c-puzzling-behaviour-on-string-array-join-split-operations-with-carriag",
+      "title": "UWP C# Puzzling behaviour on String (Array) Join &amp; Split operations with Carriage Return CR (&quot;\\r&quot;) and Line Feed LF (&quot;\\n&quot;) as separators"
+    },
+    {
+      "tags": [
+        "c#",
+        ".net",
+        "variables"
+      ],
+      "owner": {
+        "account_id": 27282246,
+        "reputation": 21,
+        "user_id": 20801974,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp7zCbD5HxGex4cBPj14OQJ-gGdvwPwKlyqS7e6Q=k-s256",
+        "display_name": "knab",
+        "link": "https://stackoverflow.com/users/20801974/knab"
+      },
+      "is_answered": true,
+      "view_count": 88,
+      "accepted_answer_id": 74835102,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1731719223,
+      "creation_date": 1671288686,
+      "last_edit_date": 1731719223,
+      "question_id": 74835041,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/74835041/in-c-why-assign-member-variables-to-local-variables-and-then-use-local-variabl",
+      "title": "In C#, why assign member variables to local variables and then use local variables instead of using member variables directly"
+    },
+    {
+      "tags": [
+        "database",
+        "connection"
+      ],
+      "owner": {
+        "account_id": 895190,
+        "reputation": 21,
+        "user_id": 932641,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/6ed1db31843060c4837beb3a12faac79?s=256&d=identicon&r=PG",
+        "display_name": "Lahno",
+        "link": "https://stackoverflow.com/users/932641/lahno"
+      },
+      "is_answered": true,
+      "view_count": 29220,
+      "accepted_answer_id": 7333518,
+      "answer_count": 3,
+      "score": 2,
+      "last_activity_date": 1731719194,
+      "creation_date": 1315396209,
+      "last_edit_date": 1731719194,
+      "question_id": 7333390,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/7333390/connection-failure-error-hy000-mysqlodbc-3-51-drivercant-connect-to-mys",
+      "title": "Connection failure - ERROR [HY000] [MySQL][ODBC 3.51 Driver]Can&#39;t connect to MySQL server on &#39;localhost&#39; (10061)"
+    },
+    {
+      "tags": [
+        "node.js",
+        "puppeteer"
+      ],
+      "owner": {
+        "account_id": 9257999,
+        "reputation": 2784,
+        "user_id": 6876149,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://i.sstatic.net/LDe4I.jpg?s=256",
+        "display_name": "C.Unbay",
+        "link": "https://stackoverflow.com/users/6876149/c-unbay"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1731719073,
+      "creation_date": 1731719073,
+      "question_id": 79194346,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79194346/puppeteer-elementhandle-by-index-or-by-checking-textcontent",
+      "title": "puppeteer elementHandle by index or by checking textContent"
+    },
+    {
+      "tags": [
+        "css",
+        "django",
+        "django-templates",
+        "static"
+      ],
+      "owner": {
+        "account_id": 35563600,
+        "reputation": 1,
+        "user_id": 27279259,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/4f539f5c5dbc246a96282b7ace359409?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Aram Madoyan",
+        "link": "https://stackoverflow.com/users/27279259/aram-madoyan"
+      },
+      "is_answered": false,
+      "view_count": 42,
+      "answer_count": 1,
+      "score": -4,
+      "last_activity_date": 1731719012,
+      "creation_date": 1731671468,
+      "last_edit_date": 1731681348,
+      "question_id": 79192257,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79192257/static-files-in-django",
+      "title": "Static files in Django"
+    },
+    {
+      "tags": [
+        "python",
+        "tensorflow",
+        "keras"
+      ],
+      "owner": {
+        "account_id": 629358,
+        "reputation": 11,
+        "user_id": 385183,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/7f5cd0dbeca063eee4870d6e7991eab7?s=256&d=identicon&r=PG",
+        "display_name": "amitava Choudhury",
+        "link": "https://stackoverflow.com/users/385183/amitava-choudhury"
+      },
+      "is_answered": false,
+      "view_count": 8666,
+      "answer_count": 3,
+      "score": 0,
+      "last_activity_date": 1731718985,
+      "creation_date": 1589355473,
+      "last_edit_date": 1729113871,
+      "question_id": 61768883,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/61768883/modulenotfounderror-no-module-named-tensorflow-python-keras-applications-mobil",
+      "title": "ModuleNotFoundError: No module named &#39;tensorflow.python.keras.applications.MobileNetV2&#39;"
+    },
+    {
+      "tags": [
+        "java",
+        "spring",
+        "sockets",
+        "resttemplate"
+      ],
+      "owner": {
+        "account_id": 9750526,
+        "reputation": 155,
+        "user_id": 7228927,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/77e8077c5b868e2da6baf7ac6d4ccf2a?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "frpet",
+        "link": "https://stackoverflow.com/users/7228927/frpet"
+      },
+      "is_answered": false,
+      "view_count": 9015,
+      "answer_count": 1,
+      "score": 11,
+      "last_activity_date": 1731718985,
+      "creation_date": 1515129625,
+      "last_edit_date": 1592644375,
+      "question_id": 48107615,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/48107615/spring-resttemplate-socketexception-connection-reset-on-quick-consecutive-execut",
+      "title": "Spring RestTemplate SocketException Connection reset on quick consecutive executions"
+    },
+    {
+      "tags": [
+        "c++",
+        "visual-studio",
+        "android-ndk"
+      ],
+      "owner": {
+        "account_id": 1471681,
+        "reputation": 97,
+        "user_id": 1383097,
+        "user_type": "registered",
+        "accept_rate": 43,
+        "profile_image": "https://www.gravatar.com/avatar/5b51308253343b99eb509fe4d4adb506?s=256&d=identicon&r=PG",
+        "display_name": "Phillip C",
+        "link": "https://stackoverflow.com/users/1383097/phillip-c"
+      },
+      "is_answered": false,
+      "view_count": 10443,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1731718985,
+      "creation_date": 1449628931,
+      "last_edit_date": 1449698606,
+      "question_id": 34169864,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/34169864/how-to-reference-math-h-in-visual-studio-2015",
+      "title": "how to reference Math.h in Visual Studio 2015"
+    },
+    {
+      "tags": [
+        "asp.net",
+        "iis",
+        "iis-8"
+      ],
+      "owner": {
+        "account_id": 2301616,
+        "reputation": 6955,
+        "user_id": 2021812,
+        "user_type": "registered",
+        "accept_rate": 52,
+        "profile_image": "https://i.sstatic.net/8MuLbr8T.jpg?s=256",
+        "display_name": "Malwinder Singh",
+        "link": "https://stackoverflow.com/users/2021812/malwinder-singh"
+      },
+      "is_answered": false,
+      "view_count": 9549,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1731718985,
+      "creation_date": 1362061944,
+      "last_edit_date": 1362062281,
+      "question_id": 15138067,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/15138067/localhost-not-opening-website",
+      "title": "localhost not opening website"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "admob"
+      ],
+      "owner": {
+        "account_id": 12540152,
+        "reputation": 113,
+        "user_id": 9125371,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/JKn2N.jpg?s=256",
+        "display_name": "Dhaval Kakadiya",
+        "link": "https://stackoverflow.com/users/9125371/dhaval-kakadiya"
+      },
+      "is_answered": true,
+      "view_count": 3154,
+      "accepted_answer_id": 48204094,
+      "answer_count": 5,
+      "score": 10,
+      "last_activity_date": 1731718914,
+      "creation_date": 1515664076,
+      "last_edit_date": 1515669538,
+      "question_id": 48203987,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/48203987/how-to-check-current-sdk-version-of-google-admob-ios",
+      "title": "How to check Current SDK version of Google AdMob iOS?"
+    },
+    {
+      "tags": [
+        ".net"
+      ],
+      "owner": {
+        "account_id": 1264335,
+        "reputation": 115,
+        "user_id": 1221983,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/ELQFs.png?s=256",
+        "display_name": "viruseg",
+        "link": "https://stackoverflow.com/users/1221983/viruseg"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1731718871,
+      "creation_date": 1731718871,
+      "question_id": 79194342,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79194342/how-to-play-mp3-in-net-9-0",
+      "title": "How to play mp3 in NET 9.0?"
+    },
+    {
+      "tags": [
+        "python-3.x",
+        "rabbitmq",
+        "pika"
+      ],
+      "owner": {
+        "account_id": 1148933,
+        "reputation": 1831,
+        "user_id": 1131067,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://i.sstatic.net/5zIZe.png?s=256",
+        "display_name": "ManiAm",
+        "link": "https://stackoverflow.com/users/1131067/maniam"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1731718833,
+      "creation_date": 1731718833,
+      "question_id": 79194341,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79194341/rabbitmq-consistent-hashing-exchange-queue-position",
+      "title": "RabbitMQ consistent hashing exchange - queue position"
+    },
+    {
+      "tags": [
+        "javascript",
+        "reactjs",
+        "dom-events"
+      ],
+      "owner": {
+        "account_id": 6792016,
+        "reputation": 27613,
+        "user_id": 5228806,
+        "user_type": "registered",
+        "accept_rate": 64,
+        "profile_image": "https://i.sstatic.net/q4IOe.jpg?s=256",
+        "display_name": "ffxsam",
+        "link": "https://stackoverflow.com/users/5228806/ffxsam"
+      },
+      "is_answered": true,
+      "view_count": 147169,
+      "accepted_answer_id": 40003179,
+      "answer_count": 8,
+      "score": 193,
+      "last_activity_date": 1731718813,
+      "creation_date": 1467930918,
+      "last_edit_date": 1566208052,
+      "question_id": 38256332,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/38256332/in-react-whats-the-difference-between-onchange-and-oninput",
+      "title": "In React, what&#39;s the difference between onChange and onInput?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "reactjs",
+        "navigation",
+        "react-router-dom",
+        "browser-history"
+      ],
+      "owner": {
+        "account_id": 37562857,
+        "reputation": 11,
+        "user_id": 28310673,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/31cdf8b4b3e8b713533301220ab9605d?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Siddik Bharath",
+        "link": "https://stackoverflow.com/users/28310673/siddik-bharath"
+      },
+      "is_answered": false,
+      "view_count": 20,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1731718762,
+      "creation_date": 1731651718,
+      "question_id": 79191278,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79191278/how-to-remove-the-last-entry-from-browser-history-stack-without-allowing-forward",
+      "title": "How to remove the last entry from browser history stack without allowing forward navigation?"
+    },
+    {
+      "tags": [
+        "css",
+        "reactjs",
+        "tailwind-css"
+      ],
+      "owner": {
+        "account_id": 20606301,
+        "reputation": 67,
+        "user_id": 15126464,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/efeed5b39b5b81f51a93998c78ad5326?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "paul allen",
+        "link": "https://stackoverflow.com/users/15126464/paul-allen"
+      },
+      "is_answered": false,
+      "view_count": 44,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1731718752,
+      "creation_date": 1731584920,
+      "last_edit_date": 1731664552,
+      "question_id": 79188616,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79188616/is-it-possible-to-resize-image-of-child-element-without-affecting-parent-element",
+      "title": "Is it possible to resize image of child element without affecting parent element in React using Tailwind CSS"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 10000,
+  "quota_remaining": 9668
+}
