@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 
 # Leer el JSON de preguntas desde un archivo
-with open('questions.json', 'r') as file:
+with open('questions.json', 'r', encoding='utf-8') as file:
     questions_json = json.load(file)
 
 # Filtrar preguntas que han sido respondidas correctamente
