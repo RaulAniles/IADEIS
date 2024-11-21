@@ -69,25 +69,3 @@ average_legibility_score = sum(legibility_scores) / len(legibility_scores) if le
 # Mostrar promedios
 print(f"Promedio de diferencia de tiempo (horas): {average_time_difference:.2f}")
 print(f"Promedio de legibilidad (Flesch Reading Ease): {average_legibility_score:.2f}")
-
-# Graficar los resultados
-plt.figure(figsize=(12, 6))
-
-# Gráfica de diferencias de tiempo
-plt.bar(question_ids, time_differences, color='skyblue', label='Diferencia de tiempo (horas)')
-plt.axhline(y=average_time_difference, color='r', linestyle='--', label='Promedio de tiempo')
-plt.xlabel('ID de la Pregunta')
-plt.ylabel('Diferencia de Tiempo (horas)')
-plt.title('Tiempo de Respuesta por Pregunta')
-plt.legend()
-plt.show()
-
-# Gráfica de legibilidad
-plt.figure(figsize=(12, 6))
-plt.bar(question_ids, legibility_scores, color='lightgreen', label='Legibilidad (Flesch Reading Ease)')
-plt.axhline(y=average_legibility_score, color='r', linestyle='--', label='Promedio de legibilidad')
-plt.xlabel('ID de la Pregunta')
-plt.ylabel('Legibilidad (Flesch Reading Ease)')
-plt.title('Legibilidad de Respuestas por Pregunta')
-plt.legend()
-plt.show()
